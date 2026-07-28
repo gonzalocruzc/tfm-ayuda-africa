@@ -8,7 +8,7 @@ Este proyecto utiliza datos de las siguientes fuentes, cada una con su licencia 
 
 ## AidData Global Chinese Development Finance Dataset (GCDF v3.0)
 - **Licencia**: Open Data Commons Attribution License (ODC-By)
-- **Citas** (ambas cuentan como oficiales):
+- **Citas**:
   - Custer, S., Dreher, A., Elston, T.B., et al. (2023). Tracking Chinese Development Finance: An Application of AidData's TUFF 3.0 Methodology. Williamsburg, VA: AidData at William & Mary. (accedido en abril de 2026)
   - Dreher, A., Fuchs, A., Parks, B.C., Strange, A., & Tierney, M.J. (2022). Banking on Beijing: The Aims and Impacts of China's Overseas Development Program. Cambridge University Press.
 
